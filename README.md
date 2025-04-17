@@ -59,6 +59,68 @@ operational costs.
 
 By meeting these criteria, the PP ensures that all legal and regulatory requirements for the project are
 satisfied, enabling the project to proceed without hindrance. 
+______________
+MP-01 Period: 01/01/2014-31/12/2023
 
+qty: 5949077 RoUs
+______________
+Serial Number: 0001-000001-348145-UCR-RoU-IN-477-01012014-31122014
 
+Vintage Year: 2014
 
+Quantity: 348145
+______________
+Serial Number: 0001-348146-766554-UCR-RoU-IN-477-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 418409
+_____________
+Serial Number: 0001-766555-1189272-UCR-RoU-IN-477-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 422718
+____________
+Serial Number: 0001-1189273-1733723-UCR-RoU-IN-477-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 544451
+______________
+Serial Number: 0001-1733724-2358068-UCR-RoU-IN-477-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 624345
+____________
+Serial Number: 0001-2358069-3105100-UCR-RoU-IN-477-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 747032
+_____________
+Serial Number: 0001-3105101-3868609-UCR-RoU-IN-477-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 763509
+___________________
+Serial Number: 0001-3868610-4025790-UCR-RoU-IN-477-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 157181
+____________
+Serial Number: 0001-4025791-4950858-UCR-RoU-IN-477-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 925068
+_____________
+Serial Number: 0001-4950859-5949076-UCR-RoU-IN-477-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 998218
+____________
